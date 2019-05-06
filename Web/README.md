@@ -6,4 +6,6 @@
 * https://www.youtube.com/watch?v=4fWpUmsWqZc 참조
 * 가상환경 사용
 * https://www.youtube.com/watch?v=Ujwjmh2qlIg 참조
+* selenium document
 
+* https://selenium-python.readthedocs.io/installation.html#introduction
