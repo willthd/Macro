@@ -3,9 +3,10 @@
 
 
 * Selenium 사용
-* https://www.youtube.com/watch?v=4fWpUmsWqZc 참조
+* https://www.youtube.com/watch?v=4fWpUmsWqZc
 * 가상환경 사용
-* https://www.youtube.com/watch?v=Ujwjmh2qlIg 참조
+* https://www.youtube.com/watch?v=Ujwjmh2qlIg
+* https://docs.python.org/ko/3.7/tutorial/venv.html
 * selenium document
 
 * https://selenium-python.readthedocs.io/installation.html#introduction
